@@ -20,7 +20,7 @@ Nesse mundo você vai:
 💡[Primeiro Algoritmo - Curso de Algoritmos #02 - Gustavo Guanabara](https://www.youtube.com/watch?v=M2Af7gkbbro&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=2)  
 💡[Comando de Entrada e Operadores - Curso de Algoritmos #03 - Gustavo Guanabara](https://www.youtube.com/watch?v=RDrfZ-7WE8c&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=3)  
 💡[Operadores Lógicos e Relacionais - Curso de Algoritmos #04 - Gustavo Guanabara](https://www.youtube.com/watch?v=Ig4QZNpVZYs&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=5)  
-💡(✂️Início: 3:15) [Estruturas Condicionais 1 - Curso de Algoritmos #07 - Gustavo Guanabara](https://www.youtube.com/watch?v=_g05aHdBAEY&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=8)  
+💡(✂️Início: 3:15) [Estruturas Condicionais 1 - Curso de Algoritmos #07 - Gustavo Guanabara](https://youtu.be/_g05aHdBAEY?t=195)  
 💡[Estruturas Condicionais 2 - Curso de Algoritmos #08 - Gustavo Guanabara](https://www.youtube.com/watch?v=7gGFHzqh4d8&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=9)  
 
 ### Painel de Treinamento
