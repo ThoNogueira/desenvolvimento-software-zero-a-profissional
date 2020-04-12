@@ -1,6 +1,6 @@
 # 🌎MUNDO 1 - O Primeiro Contato
-Nesse mundo você vai:
-👉Ter uma noção inicial sobre o que é programar.
+Nesse mundo você vai:  
+👉Ter uma noção inicial sobre o que é programar.  
 
 ## O que você precisa para entrar nesse mundo❔
 * Ter curiosidade de descobrir o que é programar.
