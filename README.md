@@ -1,5 +1,5 @@
 # Aprendendo a desenvolver software
-Este repositório organiza uma senquência de conteúdos gratuitos para quem deseja aprender a desenvolver softwares, ou seja, programar, do nível **zero absoluto** até o nível **profissional**.
+Este repositório organiza uma sequência de conteúdos gratuitos para quem deseja aprender a desenvolver softwares, ou seja, programar, do nível **zero absoluto** até o nível **profissional**.
 
 ## Como o caminho está organizado
 Para facilitar o acompanhamento, organizei esses conteúdos como uma viagem por mundos 🌎 e, dentro de cada mundo, passaremos por ilhas 🏝 de aprendizagem e, por fim, enquanto caminha por cada ilha, você irá encontrar conhecimentos. Cada mundo terá um símbolo de conhecimento diferente, você deve juntar todos eles para passar para o próximo mundo. Para sair de cada ilha, você precisará provar, para você mesmo, que aprendeu tudo, para isso, você deve fazer todos os exercícios do [Painel de Treinamentos](https://trello.com/b/UaEjvmbR/treinamento).  
