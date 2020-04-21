@@ -10,7 +10,7 @@ Nesse mundo você vai:
 1. Não é necessário baixar nenhum material de apoio sugerido pelo professor.  
 1. Pule os trechos das aulas que o professor fala do Scratch.  
 
-## 🏝 Ilha 1 - Relembrando o primeiro contato
+## 🏝 Ilha 1 - Mergulhando no primeiro contato
 🕓Você deve se dedicar a essa ilha por um período de:
 * No mínimo 
 * No máximo 
