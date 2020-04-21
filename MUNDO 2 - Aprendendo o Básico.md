@@ -19,7 +19,7 @@ Nesse mundo você vai:
 💡(✂️Início: 1:02) [Introdução a Algoritmos - Curso de Algoritmos #01 - Gustavo Guanabara](https://youtu.be/8mei6uVttho?t=62)  
 💡(✂️Início: 0:21) [Primeiro Algoritmo - Curso de Algoritmos #02 - Gustavo Guanabara](https://youtu.be/M2Af7gkbbro?t=21)  
 💡(✂️Início: 0:21) [Comando de Entrada e Operadores - Curso de Algoritmos #03 - Gustavo Guanabara](https://youtu.be/RDrfZ-7WE8c?t=21)  
-💡[Operadores Lógicos e Relacionais - Curso de Algoritmos #04 - Gustavo Guanabara](https://youtu.be/Ig4QZNpVZYs?t=25)  
+💡(✂️Início: 0:21) [Operadores Lógicos e Relacionais - Curso de Algoritmos #04 - Gustavo Guanabara](https://youtu.be/Ig4QZNpVZYs?t=25)  
 💡(✂️Início: 3:15) [Estruturas Condicionais 1 - Curso de Algoritmos #07 - Gustavo Guanabara](https://youtu.be/_g05aHdBAEY?t=195)  
 💡(✂️Início: 0:21) [Estruturas Condicionais 2 - Curso de Algoritmos #08 - Gustavo Guanabara](https://youtu.be/7gGFHzqh4d8?t=21)  
 
