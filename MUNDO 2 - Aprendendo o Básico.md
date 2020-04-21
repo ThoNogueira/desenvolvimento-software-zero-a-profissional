@@ -47,8 +47,8 @@ Nesse mundo você vai:
 * No máximo 6 horas.
 
 ### Conhecimentos
-💡(✂️Início: 0:21) [Vetores - Curso de Algoritmos #14 - Gustavo Guanabara](https://youtu.be/j9473xQ39vY?t=20)
-💡(✂️Início: 0:21) [Matrizes - Curso de Algoritmos #15 - Gustavo Guanabara](https://youtu.be/hkE9WrjpAAk?t=21)
+💡(✂️Início: 0:21) [Vetores - Curso de Algoritmos #14 - Gustavo Guanabara](https://youtu.be/j9473xQ39vY?t=20)  
+💡(✂️Início: 0:21) [Matrizes - Curso de Algoritmos #15 - Gustavo Guanabara](https://youtu.be/hkE9WrjpAAk?t=21)  
 
 ### Painel de Treinamento
 :computer: Agora acesse [aqui o Painel de Treinamento](https://trello.com/b/UaEjvmbR/painel-de-treinamentos) e faça os exercícios desta ilha.
