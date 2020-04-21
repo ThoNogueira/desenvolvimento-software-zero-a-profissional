@@ -12,21 +12,19 @@ Nesse mundo você vai:
 
 ## 🏝 Ilha 1 - Mergulhando no primeiro contato
 🕓Você deve se dedicar a essa ilha por um período de:
-* No mínimo 
-* No máximo 
+* No mínimo 5 horas.
+* No máximo 10 horas.
 
 ### Conhecimentos
-💡[Introdução a Algoritmos - Curso de Algoritmos #01 - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=1)  
-💡[Primeiro Algoritmo - Curso de Algoritmos #02 - Gustavo Guanabara](https://www.youtube.com/watch?v=M2Af7gkbbro&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=2)  
-💡[Comando de Entrada e Operadores - Curso de Algoritmos #03 - Gustavo Guanabara](https://www.youtube.com/watch?v=RDrfZ-7WE8c&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=3)  
-💡[Operadores Lógicos e Relacionais - Curso de Algoritmos #04 - Gustavo Guanabara](https://www.youtube.com/watch?v=Ig4QZNpVZYs&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=5)  
+💡(✂️Início: 1:02) [Introdução a Algoritmos - Curso de Algoritmos #01 - Gustavo Guanabara](https://youtu.be/8mei6uVttho?t=62)  
+💡(✂️Início: 0:21) [Primeiro Algoritmo - Curso de Algoritmos #02 - Gustavo Guanabara](https://youtu.be/M2Af7gkbbro?t=21)  
+💡(✂️Início: 0:21) [Comando de Entrada e Operadores - Curso de Algoritmos #03 - Gustavo Guanabara](https://youtu.be/RDrfZ-7WE8c?t=21)  
+💡[Operadores Lógicos e Relacionais - Curso de Algoritmos #04 - Gustavo Guanabara](https://youtu.be/Ig4QZNpVZYs?t=25)  
 💡(✂️Início: 3:15) [Estruturas Condicionais 1 - Curso de Algoritmos #07 - Gustavo Guanabara](https://youtu.be/_g05aHdBAEY?t=195)  
-💡[Estruturas Condicionais 2 - Curso de Algoritmos #08 - Gustavo Guanabara](https://www.youtube.com/watch?v=7gGFHzqh4d8&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=9)  
+💡(✂️Início: 0:21) [Estruturas Condicionais 2 - Curso de Algoritmos #08 - Gustavo Guanabara](https://youtu.be/7gGFHzqh4d8?t=21)  
 
 ### Painel de Treinamento
-1. Acesse o [Painel de Treinamento](https://trello.com/b/UaEjvmbR/painel-de-treinamentos).
-2. Vá para o 🌎MUNDO 2 - Aprendendo o Básico.
-3. Resolva o exercício da 🏝 Ilha 1 - Relembrando o primeiro contato.
+:computer: Agora acesse [aqui o Painel de Treinamento](https://trello.com/b/UaEjvmbR/painel-de-treinamentos) e faça os exercícios desta ilha.
 
 ## 🏝 Ilha 2 - Reutilizando código
 🕓Você deve se dedicar a essa ilha por um período de:
@@ -34,13 +32,23 @@ Nesse mundo você vai:
 * No máximo 
 
 ### Conhecimentos
-💡[Estruturas de Repetição 1 - Curso de Algoritmos #09 - Gustavo Guanabara](https://www.youtube.com/watch?v=U5PnCt58Q68&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=10)  
-💡[Estruturas de Repetição 2 - Curso de Algoritmos #10 - Gustavo Guanabara](https://www.youtube.com/watch?v=fP49L1i_-HU&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=11)  
-💡[Estruturas de Repetição 3 - Curso de Algoritmos #11 - Gustavo Guanabara](https://www.youtube.com/watch?v=WJQz20i7CyI&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=12)  
-💡[Procedimentos - Curso de Algoritmos #12 - Gustavo Guanabara](https://www.youtube.com/watch?v=KoNehy7rn8U&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=13)  
-💡[Funções - Curso de Algoritmos #13 - by Gustavo Guanabara](https://www.youtube.com/watch?v=-nNx7e8GzHQ&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=14)  
+💡(✂️Início: 0:21) [Estruturas de Repetição 1 - Curso de Algoritmos #09 - Gustavo Guanabara](https://youtu.be/U5PnCt58Q68?t=21)  
+💡(✂️Início: 0:21) [Estruturas de Repetição 2 - Curso de Algoritmos #10 - Gustavo Guanabara](https://youtu.be/fP49L1i_-HU?t=21)  
+💡(✂️Início: 0:21) [Estruturas de Repetição 3 - Curso de Algoritmos #11 - Gustavo Guanabara](https://youtu.be/WJQz20i7CyI?t=21)  
+💡(✂️Início: 0:21) [Procedimentos - Curso de Algoritmos #12 - Gustavo Guanabara](https://youtu.be/KoNehy7rn8U?t=21)  
+💡(✂️Início: 0:21) [Funções - Curso de Algoritmos #13 - by Gustavo Guanabara](https://youtu.be/-nNx7e8GzHQ?t=21)  
 
 ### Painel de Treinamento
-1. Acesse o [Painel de Treinamento](https://trello.com/b/UaEjvmbR/painel-de-treinamentos).
-2. Vá para o 🌎MUNDO 2 - Aprendendo o Básico.
-3. Resolva o exercício da 🏝 Ilha 2 - Reutilizando código.
+:computer: Agora acesse [aqui o Painel de Treinamento](https://trello.com/b/UaEjvmbR/painel-de-treinamentos) e faça os exercícios desta ilha.
+
+## 🏝 Ilha 3 - Litas e Tabelas
+🕓Você deve se dedicar a essa ilha por um período de:
+* No mínimo
+* No máximo
+
+### Conhecimentos
+💡(✂️Início: 0:21) [Vetores - Curso de Algoritmos #14 - Gustavo Guanabara](https://youtu.be/j9473xQ39vY?t=20)
+💡(✂️Início: 0:21) [Matrizes - Curso de Algoritmos #15 - Gustavo Guanabara](https://youtu.be/hkE9WrjpAAk?t=21)
+
+### Painel de Treinamento
+:computer: Agora acesse [aqui o Painel de Treinamento](https://trello.com/b/UaEjvmbR/painel-de-treinamentos) e faça os exercícios desta ilha.
