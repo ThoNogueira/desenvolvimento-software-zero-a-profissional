@@ -28,8 +28,8 @@ Nesse mundo você vai:
 
 ## 🏝 Ilha 2 - Reutilizando código
 🕓Você deve se dedicar a essa ilha por um período de:
-* No mínimo 
-* No máximo 
+* No mínimo 6 horas.
+* No máximo 12 horas.
 
 ### Conhecimentos
 💡(✂️Início: 0:21) [Estruturas de Repetição 1 - Curso de Algoritmos #09 - Gustavo Guanabara](https://youtu.be/U5PnCt58Q68?t=21)  
@@ -43,8 +43,8 @@ Nesse mundo você vai:
 
 ## 🏝 Ilha 3 - Litas e Tabelas
 🕓Você deve se dedicar a essa ilha por um período de:
-* No mínimo
-* No máximo
+* No mínimo 3 horas.
+* No máximo 6 horas.
 
 ### Conhecimentos
 💡(✂️Início: 0:21) [Vetores - Curso de Algoritmos #14 - Gustavo Guanabara](https://youtu.be/j9473xQ39vY?t=20)
